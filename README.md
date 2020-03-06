@@ -41,6 +41,8 @@ E'arBigger
 M'etropolitan
 
 F'iveSeconds
+A'irBooster
+Q'ueen
 
 シナリオは全てスタック式。
 

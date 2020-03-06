@@ -51,7 +51,7 @@ F'iveSeconds
 | Skill      |                                   |
 | Data       |                                [Y]|
 | #Green1    |+----------------------------------+
-| #Green2    | Scinario: Green1                  |
+| #Green2    | scenario: Green1                  |
 | #Red1      |                                   |
 | #Red2      |         view back                 |
 | #Red3      |                                   |
@@ -60,7 +60,7 @@ F'iveSeconds
 : NAV: Update #Green2 and #Red2                  :
 :                                             [X]:
 
-code:[mode]-[scinaio]-[spec]-[equip]-[itemflgs] //all save data
+code:[mode]-[scenario]-[spec]-[equip]-[itemflgs] //all save data
 
 ドローンから被弾すると、耐性があれば0.1s減少、耐性がなければ0.2s減少する。
 ゴズの場合は、５倍。耐性があれば0.5s減少、耐性がなければ1.0s減少する。

@@ -31,8 +31,8 @@ G'reenLake
 B'lueSky
 
 P'urpleHaze
-O'rangeHead
-W'hiteOrb
+O'rangeNail
+W'hiteRobe
 
 L'unarian
 E'arthism

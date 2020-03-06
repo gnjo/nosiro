@@ -1,7 +1,7 @@
 # nosiro
 
 ```
-FiveSecond
+5sec
 ```
 ```
 1item/5sec

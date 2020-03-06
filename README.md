@@ -44,10 +44,10 @@ F'iveSeconds
 
 シナリオは全てスタック式。
 
-:                  00:00:00                      :
+: COD:R1G1B1S-D010I09C05-X0X0X0...       00:00:00:
 +------------------------------------------------+
-|>Queen      | code:R1G1B1S-D010I09C05-X0X0X0... |
-| Rebuild    | skill list                        |
+|*Queen      | skill list                        |
+| Rebuild    |                                   |
 | Skill      |                                   |
 | Data       |                                [Y]|
 | #Green1    |+----------------------------------+

@@ -44,7 +44,7 @@ F'iveSeconds
 
 シナリオは全てスタック式。
 
-:R1G1B1S-D010I09C05-X0X0X0...            00:00:00:
+:S-R1G1B1-D010I09C05-X0X0X0...           00:00:00:
 +------------------------------------------------+
 |*Queen      | skill list                        |
 | Build      |                                   |
@@ -60,9 +60,7 @@ F'iveSeconds
 : NAV: Update #Green2 and #Red2                  :
 :                                             [X]:
 
-code:[scinaio]-[spec]-[equip]
-tred:[gold]-[items]
-empty is X0
+code:[mode]-[scinaio]-[spec]-[equip]-[itemflgs] //all save data
 
 ドローンから被弾すると、耐性があれば0.1s減少、耐性がなければ0.2s減少する。
 ゴズの場合は、５倍。耐性があれば0.5s減少、耐性がなければ1.0s減少する。

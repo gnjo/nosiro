@@ -57,7 +57,7 @@ F'iveSeconds
 | #Red3      |                                   |
 |     [01/30]|                               [LR]|
 +------------------------------------------------+
-: NAV:＃シナリオ１、＃シナリオ２を追加しました。     :
+: NAV: Update #Green2 and #Red2                  :
 :                                             [X]:
 
 code:[scinaio]-[spec]-[equip]

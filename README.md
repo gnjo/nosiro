@@ -52,7 +52,7 @@ Q'ueen
 | Build      |                                   |
 | Skill      |                                   |
 | Data       |                                [Y]|
-| #Green1    +-----------------------------------+
+|!#Green1    +-----------------------------------+
 | #Green2    | scenario: Green1                  |
 | #Red1      |                                   |
 | #Red2      |         view back                 |
@@ -61,7 +61,8 @@ Q'ueen
 +------------+-----------------------------------+
 : NAV: Update #Green2 and #Red2                  :
 :                                             [X]:
-
+ 
+! is notice 
 code:[mode]-[scenario]-[spec]-[equip]-[itemflgs] //all save data
 
 ドローンから被弾すると、耐性があれば0.1s減少、耐性がなければ0.2s減少する。

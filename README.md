@@ -38,6 +38,8 @@ L'unarian
 E'arthism
 M'etropolitan
 
+F'iveSeconds
+
 シナリオは全てスタック式。
 +------------------------------------------------+
 |＞ドライアド | Dive:10s  Empty:10i  Cap:R1 G1 B1 |

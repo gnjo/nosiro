@@ -26,9 +26,17 @@
 マスター：初期持ち時間１５秒
 ファイブ：初期持ち時間５秒
 
-RedMountain
-GreenLake
-BlueSky
+R'edMountain
+G'reenLake
+B'lueSky
+
+P'urpleHaze
+O'rangeHead
+W'hiteOrb
+
+L'unarian
+E'arthism
+M'etropolitan
 
 シナリオは全てスタック式。
 +------------------------------------------------+

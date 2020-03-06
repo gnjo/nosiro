@@ -55,7 +55,7 @@ F'iveSeconds
 | #Red1      |                                   |
 | #Red2      |         view back                 |
 | #Red3      |                                   |
-|     [01/30]|                               [LR]|
+|        [+A]|                               [LR]|
 +------------------------------------------------+
 : NAV: Update #Green2 and #Red2                  :
 :                                             [X]:
